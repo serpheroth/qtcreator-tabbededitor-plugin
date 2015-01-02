@@ -138,4 +138,4 @@ QString TabbedEditorPlugin::getQssStringFromColor(const QColor &color)
     return qssString;
 }
 
-Q_EXPORT_PLUGIN2(TabbedEditor, TabbedEditorPlugin)
+//Q_EXPORT_PLUGIN2(TabbedEditor, TabbedEditorPlugin)
