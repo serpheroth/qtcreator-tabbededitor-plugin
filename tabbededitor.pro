@@ -20,7 +20,7 @@ isEmpty(QTCREATOR_SOURCES):QTCREATOR_SOURCES=$${DIR} #/Users/dj/qt-creator-opens
 
 ## set the QTC_BUILD environment variable to override the setting here
 IDE_BUILD_TREE = $$(QTC_BUILD)
-isEmpty(IDE_BUILD_TREE):IDE_BUILD_TREE=$${DIR}/Users/dj/qt-creator-opensource-src-3.3.0
+isEmpty(IDE_BUILD_TREE):IDE_BUILD_TREE=$${DIR}#/Users/dj/qt-creator-opensource-src-3.3.0
 
 ## uncomment to build plugin into user config directory
 ## <localappdata>/plugins/<ideversion>
