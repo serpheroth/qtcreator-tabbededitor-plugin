@@ -8,7 +8,7 @@
 #include <coreplugin/idocument.h>
 //#include <texteditor/itexteditor.h>
 #include <coreplugin/editormanager/ieditor.h>
-
+#include <QAction>
 #include <QShortcut>
 #include <QTabWidget>
 
