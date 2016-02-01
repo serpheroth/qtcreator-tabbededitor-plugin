@@ -8,4 +8,7 @@
     "License" : ["same as Qt Creator"],
     "Description" : "Plugin add tabs for QtCreator",
     "Url" : "https://sourceforge.net/projects/tabbededitor/",
+    "Dependencies" : [
+        { "Name" : "Core", "Version" : "3.6.0" }
+    ]
 }
